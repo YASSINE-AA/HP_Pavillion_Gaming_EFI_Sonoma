@@ -47,10 +47,6 @@ For successful installation, it is crucial to **boot into recovery with Whatever
 
    - This will download the BaseSystem or RecoveryImage files required to create a bootable installer.
 
-3. **Download and Configure OpenCore**:
-   - Download the latest OpenCore bootloader.
-   - Replace the `config.plist` in the OpenCore `EFI` folder with the one provided in this repository.
-
 ## Installation
 
 1. **Boot from USB**:
