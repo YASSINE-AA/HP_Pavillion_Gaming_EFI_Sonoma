@@ -60,8 +60,8 @@ For successful installation, it is crucial to **boot into recovery with Whatever
 
 1. **Copy OpenCore to Internal Drive**:
    - Mount your EFI partition and copy the OpenCore EFI folder to the internal drive. (tip: if your efi partition is called "NO NAME" change the name to anything else for the grub to work).
-2. **Adjust Display Settings**:
-   - For optimal performance, configure the display and resolution settings.
+2. **Setup NootedRed and Activate AMD Radeon Graphics acceleration:**:
+   - Directly enable NootedRed in your EFI/OC/config.plist on your EFI partition and disable WhateverGreen. 
 
 ## Troubleshooting
 
