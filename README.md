@@ -59,7 +59,7 @@ For successful installation, it is crucial to **boot into recovery with Whatever
 ## Post-Installation
 
 1. **Copy OpenCore to Internal Drive**:
-   - Mount your EFI partition and copy the OpenCore EFI folder to the internal drive.
+   - Mount your EFI partition and copy the OpenCore EFI folder to the internal drive. (tip: if your efi partition is called "NO NAME" change the name to anything else for the grub to work).
 2. **Adjust Display Settings**:
    - For optimal performance, configure the display and resolution settings.
 
